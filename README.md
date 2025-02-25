@@ -30,6 +30,6 @@ Experiências em Modpack: Recomendo fortemente jogar o Electroblob's Wizardry em
 ## 🎒 (Sophisticated Backpacks)[https://modrinth.com/mod/sophisticated-backpacks]
 Inventário cheio porque tem muitos itens de outros mods? É aí que esse lindo mod de mochilas entra! 
 
-![Sophisticated Backpacks](https://media.forgecdn.net/attachments/362/34/backpack_variants.png](https://i.ytimg.com/vi/5sjN6djPHm0/maxresdefault.jpg)
+![Sophisticated Backpacks](https://i.ytimg.com/vi/5sjN6djPHm0/maxresdefault.jpg)
 
 ***Análise geral sobre Electroblob's Wizardry escrito por [João Carlos Viana Teixeira "Redyiel"](https://github.com/redyiel)***
