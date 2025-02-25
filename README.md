@@ -27,7 +27,7 @@ Experiências em Modpack: Recomendo fortemente jogar o Electroblob's Wizardry em
 
 ***Análise porca e simples sobre Mo' Creatures escrito por [Zeryiel (Definitivamente não é uma conta secundária do Redyiel)](https://github.com/zeryiel)***
 
-## 🎒 (Sophisticated Backpacks)[https://modrinth.com/mod/sophisticated-backpacks]
+## 🎒 [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks)
 Inventário cheio porque tem muitos itens de outros mods? É aí que esse lindo mod de mochilas entra! 
 
 ![Sophisticated Backpacks](https://i.ytimg.com/vi/5sjN6djPHm0/maxresdefault.jpg)
