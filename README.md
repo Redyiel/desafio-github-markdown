@@ -8,7 +8,7 @@ Minecraft descarta apresentações, afinal é comum sabermos do potencial desse 
 
 ![electroblob's wizardry](https://github.com/user-attachments/assets/d78580cf-220a-458b-8b2f-d939313ba9d0)
 
-Esse mod tem como objetivo adicionar muitas, mas muitas magias diferentes ao jogo, e como posso as ter? Basta construir uma Magic Wand e então... **Explorar o mapa e loots atrás de magias para se tornar um poderoso mago** 
+Esse mod tem como objetivo adicionar muitas, mas muitas magias diferentes ao jogo, e como posso as ter? Basta construir uma Magic Wand e então... **Explorar o mapa e loots atrás de magias para se tornar um poderoso mago!** 
 
 ![electroblob's wizardry spells](https://github.com/user-attachments/assets/2fbaa533-639c-46b7-b1e4-de43f908c613)
 
@@ -16,6 +16,6 @@ Electroblob's Wizardry além de adicionar mais de 100 magias, adiciona armaduras
 
 ![electroblob's wizardry armors](https://github.com/user-attachments/assets/527a21ec-5fbe-432c-8021-894e46f2e429)
 
-Experiências em Modpack: Recomendo fortemente jogar o Electroblob's Wizardry em conjunto com outros mods de exploração, assim como também mods de dungeons e de loot, e também que tal uns monstros para você enfrentar? *Ice and Fire e Mowzies Mobs não deve te decepcionar*
+Experiências em Modpack: Recomendo fortemente jogar o Electroblob's Wizardry em conjunto com outros mods de exploração, assim como também mods de dungeons e de loot, e também que tal uns monstros para você enfrentar? *Ice and Fire e Mowzies Mobs não deve te decepcionar!*
 
 ***Análise geral sobre Electroblob's Wizardry escrito por [João Carlos Viana Teixeira "Redyiel"](https://github.com/redyiel)***
