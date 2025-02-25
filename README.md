@@ -32,4 +32,4 @@ Inventário cheio porque tem muitos itens de outros mods? É aí que esse lindo 
 
 ![Sophisticated Backpacks](https://i.ytimg.com/vi/5sjN6djPHm0/maxresdefault.jpg)
 
-***Análise geral sobre Electroblob's Wizardry escrito por [João Carlos Viana Teixeira "Redyiel"](https://github.com/redyiel)***
+***Análise geral sobre Sophisticated Backpacks escrito por [João Carlos Viana Teixeira "Redyiel"](https://github.com/redyiel)***
