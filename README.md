@@ -19,3 +19,10 @@ Electroblob's Wizardry além de adicionar mais de 100 magias, adiciona armaduras
 Experiências em Modpack: Recomendo fortemente jogar o Electroblob's Wizardry em conjunto com outros mods de exploração, assim como também mods de dungeons e de loot, e também que tal uns monstros para você enfrentar? *Ice and Fire e Mowzies Mobs não deve te decepcionar!*
 
 ***Análise geral sobre Electroblob's Wizardry escrito por [João Carlos Viana Teixeira "Redyiel"](https://github.com/redyiel)***
+
+## [Mo'Creatures](https://www.curseforge.com/minecraft/mc-mods/mo-creatures-extended)
+**NOVAS CRIATURAS AO MINECRAFT** MUITOS ANIMAIS BONITOS E FOFOS!
+
+![mo'creatures](https://i.ytimg.com/vi/5fcskvqY0cQ/maxresdefault.jpg)
+
+***Análise porca e simples sobre Mo' Creatures escrito por [Zeryiel (Definitivamente não é uma conta secundária do Redyiel)](https://github.com/zeryiel)***
